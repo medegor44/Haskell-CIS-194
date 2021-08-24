@@ -1,0 +1,1 @@
+2021-08-14 18:17:47.951946300000 [$pid(ThreadId 5)] ERROR APP - user error (<getModule> loaded module can not find from path. <d:\Projects\Haskell\hw1\src\Lib.hs> [("Main","D:/Projects/Haskell/hw1/test/Spec.hs")])
